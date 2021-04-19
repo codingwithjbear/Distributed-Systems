@@ -49,9 +49,9 @@ class Worker extends Thread {
 	public static int provNum = -1;
 
 	public static String[] jokeArr = { "JA  Why did the chicken cross the road? To get to the other side!",
-			"JB  Knock Knock? Who's there? Adolf. Adolf who? Hitler",
-			"JC  Knock Knock? Who's there? Dunkin. Dunkin who? Donuts",
-			"JD  Knock Knock? Who's there? Coffee. Coffee who? Sugar" };
+			"JB  Knock Knock? Who's there? Orange. Orange who? Orange you glad I didn't say banana",
+			"JC  Knock Knock? Who's there? Tank. Tank who? You're Welcome!",
+			"JD  Knock Knock? Who's there? Says. Says who? Says me!" };
 
 	public static String[] provArr = { "PA  Home is where the heart is", "PB  Be patient good things will come",
 			"PC  Give me a computer and I'll make a program", "PD  Practice Practice Practice and you will get it" };
