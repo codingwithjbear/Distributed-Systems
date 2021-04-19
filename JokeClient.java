@@ -33,9 +33,6 @@ All acceptable commands are displayed on the various consoles.
  b. JokeClient.java
  c. JokeClientAdmin.java
 
-5. Notes:
-
-I got everything to work except for the secondary server
 
 
 ----------------------------------------------------------*/
